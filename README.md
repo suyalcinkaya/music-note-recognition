@@ -23,75 +23,75 @@ DDCBBAGGFEDDnDEDDAFEDGBDnDCBBAGGFEDDnCBABAGAEFG
     <td>Fail rate</td>
   </tr>
   <tr>
-    <td rowspan="2">im1s.jps</td>
+    <td rowspan="2">im1s.jpg</td>
     <td colspan="1">ref</td>
-    <td colspan="1">DDCBBAGGFEDDnDEDDAFEDGBDnDCBBAGGFEDDnCBABAGAEFG</td>
+    <td colspan="1">DDCBBAGGFEDDn <br/> DEDDAFEDGBDn <br/> DCBBAGGFEDDn <br/> CBABAGAEFG</td>
     <td rowspan="2">0</td>
     <td rowspan="2">0%</td>
   </tr>
   <tr>
     <td colspan="1">out</td>
-    <td colspan="1">DDCBBAGGFEDDnDEDDAFEDGBDnDCBBAGGFEDDnCBABAGAEFG</td>
+    <td colspan="1">DDCBBAGGFEDDn <br/> DEDDAFEDGBDn <br/> DCBBAGGFEDDn <br/> CBABAGAEFG</td>
   </tr>
   
   <tr>
-    <td rowspan="2">im2s.jps</td>
+    <td rowspan="2">im2s.jpg</td>
     <td colspan="1">ref</td>
-    <td colspan="1">AAFABAFFEFEnAAFABAFEFEnDDFABBDBnAAFABAFEFE</td>
+    <td colspan="1">AAFABAFFEFEn <br/> AAFABAFEFEn <br/> DDFABBDBn <br/> AAFABAFEFE</td>
     <td rowspan="2">3</td>
     <td rowspan="2">7%</td>
   </tr>
   <tr>
     <td colspan="1">out</td>
-    <td colspan="1">AAFABAFFEFEnAAFABAFEFEnCDFABBDBnGGFABAFEFE</td>
+    <td colspan="1">AAFABAFFEFEn <br/> AAFABAFEFEn <br/> <b>C</b>DFABBDBn <br/> <b>GG</b>FABAFEFE</td>
   </tr>
   
    <tr>
-    <td rowspan="2">im3s.jps</td>
+    <td rowspan="2">im3s.jpg</td>
     <td colspan="1">ref</td>
-    <td colspan="1">ACBADDDEBCnAAACBAGGFEDCBAnACBADDDEBCnAAACBAGDABG</td>
+    <td colspan="1">ACBADDDEBCn <br/> AAACBAGGFEDCBAn <br/> ACBADDDEBCn <br/> AAACBAGDABG</td>
     <td rowspan="2">1</td>
     <td rowspan="2">2%</td>
   </tr>
   <tr>
     <td colspan="1">out</td>
-    <td colspan="1">ACBADDDEBCnDAAACBAGGFEDCBAnACBADDDEBCnAAACBAGDABG</td>
+    <td colspan="1">ACBADDDEBCn <br/> <b>D</b>AAACBAGGFEDCBAn <br/> ACBADDDEBCn <br/> AAACBAGDABG</td>
   </tr>
   
   <tr>
-    <td rowspan="2">im4s.jps</td>
+    <td rowspan="2">im4s.jpg</td>
     <td colspan="1">ref</td>
-    <td colspan="1">GGEEGGDDEFGABGGnGEEGGDDDCDEADGnEEDCCBBCDBAGCCnCAACCGGGACGDC</td>
+    <td colspan="1">GGEEGGDDEFGABGGn <br/> GEEGGDDDCDEADGn <br/> EEDCCBBCDBAGCCn <br/> CAACCGGGACGDC</td>
     <td rowspan="2">1</td>
     <td rowspan="2">2%</td>
   </tr>
   <tr>
     <td colspan="1">out</td>
-    <td colspan="1">GGEEGGDDEFGABGGnGEEGGDDDCDEADGnEEDCCBBCDBAGCCnCAACCGGACGDC</td>
+    <td colspan="1">GGEEGGDDEFGABGGn <br/> GEEGGDDDCDEADGn <br/> EEDCCBBCDBAGCCn <br/> CAACCGG<b>A</b>CGDC</td>
   </tr>
   
   <tr>
-    <td rowspan="2">im5s.jps</td>
+    <td rowspan="2">im5s.jpg</td>
     <td colspan="1">ref</td>
-    <td colspan="1">GGABGBADGGABGFnGGABCBAGFDEFGGnEFEDEFGDEDCDnEFEDEFGEDGFAGG</td>
+    <td colspan="1">GGABGBADGGABGFn <br/> GGABCBAGFDEFGGn <br/> EFEDEFGDEDCDn <br/> EFEDEFGEDGFAGG</td>
     <td rowspan="2">1</td>
     <td rowspan="2">2%</td>
   </tr>
   <tr>
     <td colspan="1">out</td>
-    <td colspan="1">GABGBADGGABGFnGGABCBAGFDEFGGnEFEDEFGDEDCDnDEFEDEFGEDGFAGG</td>
+    <td colspan="1">GABGBADGGABGFn <br/> GGABCBAGFDEFGGn <br/> EFEDEFGDEDCDn <br/> DEFEDEFGEDGFAGG</td>
   </tr>
   
   <tr>
-    <td rowspan="2">im6s.jps</td>
+    <td rowspan="2">im6s.jpg</td>
     <td colspan="1">ref</td>
-    <td colspan="1">CCGGAAGFFEEDDCnGGFFEEDGGFFEEDnCCGGAAGFFEEDDC</td>
+    <td colspan="1">CCGGAAGFFEEDDCn <br/> GGFFEEDGGFFEEDn <br/> CCGGAAGFFEEDDC</td>
     <td rowspan="2">1</td>
     <td rowspan="2">2%</td>
   </tr>
   <tr>
     <td colspan="1">out</td>
-    <td colspan="1">CCGGAAGFFEEDCnGGFFEEDGGFFEEDnCCGGAAGFFEEDDC</td>
+    <td colspan="1">CCGGAAGFFEEDCn <br/> GGFFEEDGGFFEEDn <br/> CCGGAAGFFEEDDC</td>
   </tr>
   
   <tr>
